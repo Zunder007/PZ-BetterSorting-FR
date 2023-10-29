@@ -1,0 +1,5 @@
+Tooltip_FR = {
+	Tooltip_BookTitle_Scavenging = "Récupération",
+	Tooltip_BookTitle_Driving = "Conduite",
+	Tooltip_BookTitle_Tinkering = "Bricolage",
+}
